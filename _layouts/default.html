@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+
+  <title>
+    {{ page.title | default: site.title }}
+  </title>
+
+  <link rel="stylesheet"
+        href="{{ '/assets/style.css' | relative_url }}">
+
+  {% feed_meta %}
+
+  <!-- MathJax configuration -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['\\(', '\\)']],
+        displayMath: [['\\[', '\\]']]
+      }
+    };
+  </script>
+
+  <!-- Load MathJax -->
+  <script defer
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  </script>
+</head>
+
+<body>
+  <header>
+    <a href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+
+    <nav>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>{{ site.description }}</p>
+  </footer>
+</body>
+</html>
