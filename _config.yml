@@ -1,0 +1,15 @@
+title: "sphere packings"
+description: "Musings on research and academia"
+
+url: "https://username.github.io"
+baseurl: "/blog"
+
+markdown: kramdown
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+
+kramdown:
+  math_engine: mathjax
