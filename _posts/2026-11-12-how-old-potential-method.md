@@ -7,6 +7,8 @@ date: 2026-11-12
 title: How old is the potential method in coding theory?
 ---
 
+A PDF version of this post, written in LaTeX, can be found [here](http://jmlribeiro.github.io/how-old-potential-method.pdf).
+
 Guruswami, Håstad, Sudan, and Zuckerman [^GHSZ02] proved that there exist binary linear codes of rate $$1-h(\rho)-\varepsilon$$ that are $$(\rho,L=O(1/\varepsilon))$$-list-decodable, matching the known performance of uniformly random codes. This is a notable result in coding theory, and part of what makes it stand out is the beautiful underlying proof strategy.
 
 At a high level, the argument first sets up a *potential*
