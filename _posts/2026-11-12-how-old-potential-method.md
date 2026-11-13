@@ -348,15 +348,15 @@ parse the techniques and results in these works.
 
 [^Coh83]: Gérard Cohen. A nonconstructive upper bound on covering radius. IEEE Transactions on Information Theory, 29(3):352--353, 1983.
 
-[^DLMNRR26]: Dean Doron, Tal Leonov, Jonathan Mosheiff, Henrique Navas, Nicolas Resch, and João Ribeiro. Discrepancy for random linear codes, 2026. https://arxiv.org/abs/2606.24471
+[^DLMNRR26]: Dean Doron, Tal Leonov, Jonathan Mosheiff, Henrique Navas, Nicolas Resch, and João Ribeiro. Discrepancy for random linear codes, 2026. Available at [arXiv](https://arxiv.org/abs/2606.24471).
 
 [^DP86]: Philippe Delsarte and Philippe Piret. Do most binary linear codes achieve the Goblick bound on the covering radius? (corresp.). IEEE Transactions on Information Theory, 32(6):826--828, 1986.
 
 [^GHSZ02]: Venkatesan Guruswami, Johan Håstad, Madhu Sudan, and David Zuckerman. Combinatorial bounds for list decoding. IEEE Transactions on Information Theory, 48(5):1021--1034, 2002. Preliminary version presented at Allerton 2000.
 
-[^Gob62]: Thomas J. Goblick. Coding for a discrete information source with a distortion measure. PhD thesis, MIT, October 1962. Available at https://dspace.mit.edu/entities/publication/fbba9539-8ae5-4d8a-bf89-6fb07116288a
+[^Gob62]: Thomas J. Goblick. Coding for a discrete information source with a distortion measure. PhD thesis, MIT, October 1962. Available [here](https://dspace.mit.edu/entities/publication/fbba9539-8ae5-4d8a-bf89-6fb07116288a).
 
-[^Kum26]: Vinayak M. Kumar. Linearity, locality, and lower bounds: A unified perspective through randomness. PhD thesis, UT Austin, 2026. https://v-m-kumar.github.io/dissertation%20(2).pdf
+[^Kum26]: Vinayak M. Kumar. Linearity, locality, and lower bounds: A unified perspective through randomness. PhD thesis, UT Austin, 2026. Available [here](https://v-m-kumar.github.io/dissertation%20(2).pdf).
 
 [^Lev88]: Lev B. Levitin. Covering radius of almost all linear codes satisfies the Goblick bound, 1988. Presented at a recent results session, 1988 IEEE International Symposium on Information Theory.
 
